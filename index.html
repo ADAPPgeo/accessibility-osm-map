@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC > 
+<html> 
+	<head> 
+		<title>Accesibilidad para silla de ruedas</title>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+
+		<link rel="stylesheet" href="css/leaflet.css" />
+		<link rel="stylesheet" href="css/style.css" />
+		<link rel="stylesheet" href="css/leaflet-list-markers.css" />
+
+		<script src="js/leaflet.js"></script>
+		<script src="js/leaflet-layerjson2.js"></script>
+		<script src="js/leaflet-list-markers.js"></script>
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/maki.css">
+    <link rel="stylesheet" href="css/animation.css"><!--[if IE 7]><link rel="stylesheet" href="css/maki-ie7.css"><![endif]-->
+    <script>
+      function toggleCodes(on) {
+        var obj = document.getElementById('icons');
+        
+        if (on) {
+          obj.className += ' codesOn';
+        } else {
+          obj.className = obj.className.replace(' codesOn', '');
+        }
+      }
+      
+    </script>
+	</head>
+	<body>
+		<div>
+			<div id="map"></div>
+			<div id="loader"></div>
+		</div>
+
+
+		 <script src="./js/ocioaccesible.js"></script>
+	</body>
+</html>
