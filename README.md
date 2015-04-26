@@ -10,6 +10,7 @@ Se encuentra disponible en: [www.adappgeo.net](http://adappgeo.net/mapa/ocio/).
 
 * Visualizar puntos en un mapa correspondientes a puntos de interés, significados según su accesibilidad para silla de ruedas.
 * Consultar información de interés de cada punto mediante _popup_.
+* Lista las entradas de metro accesibles dentro del marco del mapa, para centrarlo en una de ellas seleccionada por el usuario.
 
 ## Dependencias
 
