@@ -43,7 +43,7 @@ Para consultar los datos se emplea la API overpass:
 
 ## Descripción de los datos
 
-En las consultas de los datos, se piden los puntos que tienen la etiqueta **_<wheelchair>_**, cuyo valor puede ser:
+En las consultas de los datos, se piden los puntos que tienen la etiqueta **_wheelchair_**, cuyo valor puede ser:
 
 **yes: _Accesible para silla de ruedas_**. Acceso liso, sin peldaños; todas las localidades tienen acceso y circulación para silla de ruedas (sin excepción); baños disponibles para personas con discapacidad.
 
