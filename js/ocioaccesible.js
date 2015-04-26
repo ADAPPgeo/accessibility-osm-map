@@ -1,10 +1,21 @@
-//Prepara el Mapa Base
+//Prepara el Mapa Base de OpenStreetMAp
 
 var osmAttrib='Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
         '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'+' Powered by <a href="http://overpass-api.de/">overpass-api.de</a>',
     osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 
 var osm = new L.TileLayer(osmUrl, { attribution: osmAttrib});
+
+
+/*Puedes usar el servicio Mapbox para renderizar el mapa con tu propia simbología y colores:
+
+var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, '+'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, '+'Imagery © <a href="http://mapbox.com">Mapbox</a>'+' Powered by <a href="http://overpass-api.de/">overpass-api.de</a>',
+    mbUrl = 'https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png';
+
+var mapamapbox = L.tileLayer(mbUrl, {id: 'id_usuario.id_map', attribution: mbAttr});
+
+*/
+
 
 //Juego de iconos
 
