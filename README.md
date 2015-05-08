@@ -18,9 +18,9 @@ Se encuentra disponible en: [www.adappgeo.net](http://adappgeo.net/mapa/ocio/).
 
 * [Leaflet:](http://leafletjs.com) Librería Javascript para visualización de mapas. Copyright (c) 2010-2015, Vladimir Agafonkin; Copyright (c) 2010-2011, CloudMade. [All rights reserved](https://github.com/Leaflet/Leaflet/blob/master/LICENSE).
 
-* [leaflet-layerJSON:](https://github.com/stefanocudini/leaflet-layerJSON) Complemento para Leaflet. Crea una capa JSON dinámica mediante Ajax/JSONP. Se ha modificado un poco, resultando el documento ./leaflet-layerJSON2.js
+* [leaflet-layerJSON:](https://github.com/stefanocudini/leaflet-layerJSON) Complemento para Leaflet. Crea una capa JSON dinámica mediante Ajax/JSONP. Copyright 2014 [Stefano Cudini](http://labs.easyblog.it/stefano-cudini/). Se ha modificado un poco, resultando el documento ./leaflet-layerJSON2.js
 
-* [leaflet-list-markers:](https://github.com/stefanocudini/leaflet-list-markers) Complemento para Leaflet. Lista puntos visibles en un cuadro interactivo.
+* [leaflet-list-markers:](https://github.com/stefanocudini/leaflet-list-markers) Complemento para Leaflet. Lista puntos visibles en un cuadro interactivo. Copyright 2014 [Stefano Cudini](http://labs.easyblog.it/stefano-cudini/).
 
 *No incluidas en este repositorio*
 
