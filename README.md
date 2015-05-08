@@ -36,7 +36,7 @@ En Madrid, a fecha de abril de 2015, la mayoría han sido obtenidos mediante _ma
 
 Una _Mapping Party_ es una reunión de gente voluntaria para tomar datos y cartografiar una zona.
 
-Más información acerca de dichos eventos, con documentación, herramientas y material para organizar futuras _Mapping Parties de Accesibilidad_ en [ADAPPgeo.net](http://adappgeo.net/mappingparty4/).
+Más información acerca de dichos eventos, con documentación, herramientas y material para organizar futuras _Mapping Parties de Accesibilidad_ en [www.adappgeo.net](http://adappgeo.net/mappingparty4/).
 
 ![Imagen del Microsite con documentación para las Mapping Party de Accesibilidad que organizan los Geoinquietos Madrid](http://adappgeo.net/images/portfolio/accessibilitymappingparty3.jpg "Imagen del Microsite con documentación para las Mapping Party de Accesibilidad que organizan los Geoinquietos Madrid")
 
