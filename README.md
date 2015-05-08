@@ -22,7 +22,7 @@ Se encuentra disponible en: [www.adappgeo.net](http://adappgeo.net/mapa/ocio/).
 
 * [leaflet-list-markers:](https://github.com/stefanocudini/leaflet-list-markers) Complemento para Leaflet. Lista puntos visibles en un cuadro interactivo.
 
-*No icluidas en este repositorio*
+*No incluidas en este repositorio*
 
 * [Maki](https://github.com/mapbox/maki) Biblioteca de iconos de Mapbox. [CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -32,7 +32,11 @@ Se encuentra disponible en: [www.adappgeo.net](http://adappgeo.net/mapa/ocio/).
 
 Los datos corresponden a consultas a la base de datos de **OpenStreetMap**.
 
-En Madrid, a fecha de abril de 2015, la mayoría han sido obtenidos mediante _mapping parties_ organizadas por **Geoinquietos Madrid** para obtener datos de accesibilidad. Más información acerca de dichos eventos, con documentación, herramientas y material para organizar futuras _Mapping Parties de Accesibilidad_ en [ADAPPgeo.net](http://adappgeo.net/mappingparty4/).
+En Madrid, a fecha de abril de 2015, la mayoría han sido obtenidos mediante _mapping parties_ organizadas por **Geoinquietos Madrid** para obtener datos de accesibilidad. 
+
+Una _Mapping Party_ es una reunión de gente voluntaria para tomar datos y cartografiar una zona.
+
+Más información acerca de dichos eventos, con documentación, herramientas y material para organizar futuras _Mapping Parties de Accesibilidad_ en [ADAPPgeo.net](http://adappgeo.net/mappingparty4/).
 
 ![Imagen del Microsite con documentación para las Mapping Party de Accesibilidad que organizan los Geoinquietos Madrid](http://adappgeo.net/images/portfolio/accessibilitymappingparty3.jpg "Imagen del Microsite con documentación para las Mapping Party de Accesibilidad que organizan los Geoinquietos Madrid")
 
